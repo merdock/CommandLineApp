@@ -29,7 +29,7 @@
 		5B551CA213DA04C60079EB05 /* CommandLineApp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CommandLineApp; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B551CA613DA04C60079EB05 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		5B551CA913DA04C60079EB05 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		5B551CAC13DA04C60079EB05 /* CommandLineApp-Prefix.pch */ = {isa = PBXFileReference; path = "CommandLineApp-Prefix.pch"; sourceTree = "<group>"; };
+		5B551CAC13DA04C60079EB05 /* CommandLineApp-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CommandLineApp-Prefix.pch"; sourceTree = "<group>"; };
 		5B551CAD13DA04C60079EB05 /* CommandLineApp.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = CommandLineApp.1; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 

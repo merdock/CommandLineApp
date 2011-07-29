@@ -13,9 +13,33 @@ int main (int argc, const char * argv[])
 
     NSAutoreleasePool * pool = [[NSAutoreleasePool alloc] init];
 
+    
     // insert code here...
-    NSLog(@"Hello, World!");
+    int testabokka = 44;
+    int *testabokkaPtr;
+    
 
+    testabokkaPtr = &testabokka;
+    
+   
+    
+    *testabokkaPtr = 55;
+    
+    
+    NSLog(@"The value of testabokka is %i", testabokka);
+
+    
+    
+
+   
+    
+    
+    
+    
+    
+    
+    
+    
     [pool drain];
     return 0;
 }
